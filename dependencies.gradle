@@ -7,7 +7,7 @@ ext {
      springFoxBootVersion = "3.0.0"
     hibernateVersion = "5.4.31.Final"
     c3p0Version = "0.9.5.5"
-    postgresVersion = "42.2.10"
+    postgresVersion = "42.5.2"
     supportDependencies = [
             springfox_boot_starter            : "io.springfox:springfox-boot-starter:$springFoxBootVersion",
             hibernate_entitymanager           : "org.hibernate:hibernate-entitymanager:$hibernateVersion",
